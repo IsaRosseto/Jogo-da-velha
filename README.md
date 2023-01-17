@@ -5,17 +5,17 @@ Jogo da velha desenvolvido em Java
 
 <h3> Ficou com vontade de jogar? Siga os passos abaixo: </h3>
 
-<h3>  [x] Baixe o repositório em sua maquina. </h3>
+- [x]  Baixe o repositório em sua maquina. 
 
-<h3> Compilar </h3>
+- [x]  Compilar 
 
-execute `javac Main.java`
+> execute `javac Main.java`
 
 
 
- <h3> Rodar </h3>
+- [x]  Rodar
 
-execute `java Main`
+> execute `java Main`
 
 
 #
