@@ -1,11 +1,20 @@
 # Jogo da velha ❌⭕
 Jogo da velha desenvolvido em Java
 
+##
 
-## Compilar
+<h3> Ficou com vontade de jogar? Siga os passos abaixo: </h3>
+
+<h3> Baixe o repositório em sua maquina. </h3>
+
+<h3> Compilar </h3>
+
 execute `javac Main.java`
 
-## Rodar
+
+
+ <h3> Rodar </h3>
+
 execute `java Main`
 
 
